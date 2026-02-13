@@ -6,5 +6,6 @@ const action = () => {
 
 function action2() {
     //TODO: require to assign variable to the corresponding value
+    const getName = "";
     return;
 }
