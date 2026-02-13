@@ -4,8 +4,8 @@ const action = () => {
     return;
 }
 
-function action2() {
-    //TODO: require to assign variable to the corresponding value
-    const getName = "";
+const action3 = () => {
+    
+    const userName = "";
     return;
 }
