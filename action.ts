@@ -9,3 +9,7 @@ const action3 = () => {
     const userName = "";
     return;
 }
+
+function action4 () {
+    
+}
